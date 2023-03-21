@@ -4,6 +4,10 @@
     font-family: a4 speed;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 html {
     scroll-behavior: smooth;
 }
